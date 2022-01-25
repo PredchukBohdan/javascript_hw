@@ -1,0 +1,14 @@
+.button{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: blue;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 30px;
+    display: block;
+    margin: 0 auto;
+    
+}

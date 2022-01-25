@@ -1,0 +1,10 @@
+.header{
+    font-size: 15px;
+}
+.head{
+    font-size: 117px;
+    max-width: 12rem;
+}
+.head:hover{
+    transform: scale(1.2);
+}
