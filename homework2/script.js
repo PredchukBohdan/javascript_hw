@@ -16,7 +16,7 @@ let buyList = ['vegetables, fruits, juice, meat, bread'];
 
 // переменная,которая хранит инф. о том, является ли пользователь в сети (онлайн)?
 
-let userStatusInfo = 'online';
+let isUserNetStatus = 'online';
 
 // переменная,которая хранит зарплату работника
 
