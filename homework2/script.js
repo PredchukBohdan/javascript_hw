@@ -26,7 +26,7 @@ let workerSalary = 1000;
 
 let cursorCoordinates;
 
-/* >>>>>>>>>>>>>>>>>> Exercise 3 <<<<<<<<<<<<<<<<<<<<*/
+/* >>>>>>>>>>>>>>>>> Exercise 3 <<<<<<<<<<<<<<<<<<<*/
 
 let greeting = 'Hello World!';
 console.log(greeting);
